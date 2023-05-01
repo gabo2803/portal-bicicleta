@@ -1,0 +1,108 @@
+*{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Cormorant Garamond', serif;
+}
+.germ_navbar{
+    background-color: rgba(255, 255, 255, 0.7)!important;
+}
+.germ_navbar div, .germ_navbar ul{
+    background-color: transparent !important;
+}
+.cont_sec_1{
+    padding: 20px;
+}
+.cont_sec_1_link{
+    padding: 5%;
+    
+}
+.cont_sec_1_link a{   
+    width: 200px;
+}
+.cont_sec_1 hr{   
+    border-top: 1px solid rgba(1, 1, 1, 0.3);
+}
+footer{
+    background: #414141;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+.contenedor-footer{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #ccc;    
+}
+.content-foo{
+    text-align: center;    
+}
+.content-foo h4{
+    color: #fff;
+    border-bottom: 3px solid #afafaf;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+.content-foo p{
+    color: #ccc;
+}
+.ultimo-titulo{
+    color:#ccc ;
+    text-align: center;
+    font-size: 24px;
+    color: #9e9797;
+}
+@import url('https://fonts.googleapis.com/css?family=Numans');
+.login{
+    background-image: url('../img/img_portada.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
+.container #login-row #login-column #login-box{
+    margin: 100px 0px 70px 0px;
+    max-width: 500px;
+    height: 650px;
+    box-shadow: 2px 2px 2px 2px #343a40;
+    border-radius: 4px;    
+}
+.item-img{
+    max-width: 100%;
+    display: block;
+}
+
+.item{
+    cursor: pointer;
+    box-shadow: 0 0 5px 0 rgba(0,0,0,.095);
+}
+
+.item-text{
+    padding: 1em;
+}
+
+.container_galerias{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em;
+    margin-bottom: 3em;    
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    grid-gap: 30px;
+}
+
+.item:hover{
+    transform: scale(1.08);
+}
+
+@media screen and (min-width: 960px){
+    .container_galerias{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

@@ -1,0 +1,40 @@
+Cuadro
+Diseño: Suspensión total
+Tipo de material: Carbon
+Marca amortiguador: Fox
+Tipo: Cuatro articulaciones
+Marca del amortiguador: Rendimiento del flotador DPS
+Recorrido de suspensión: 130
+Horquilla
+Diseño: Horquilla de suspensión
+Marca: Fox
+Tipo: Rhythm 34
+Horquilla de suspensión
+Recorrido de suspensión: 140 mm
+Cambios
+Tipo de transmisión: Kettenschaltung
+Número de marchas: 12
+Marca: Sram
+Tipo: NX Eagle
+Manetas de cambio
+Modelo: Sram NX Eagle  
+Juego de platos y bielas
+Modelo: SRAM NX Eagle 148 DUB, 165 ( XS ), 170mm ( S ), 175mm ( M-XXL )
+Plato 1: 32 Dientes
+Pedalier
+Modelo: SRAM DUB 68 / 73mm Roscado BB  
+Cadena
+Modelo: Sram NX Eagle  
+Cassette
+Plato: 11-50 Dientes
+Modelo: SRAM PG1230
+Frenos delanteros
+Marca: Sram
+Tipo: Guide T
+Sistema de frenos: Freno de disco hidráulico
+Diámetro del disco de freno: 180 mm
+Frenos traseros
+Marca: Sram
+Tipo: Guide T
+Sistema de frenos: Freno de disco hidráulico
+Diámetro del disco de freno: 180 mm

@@ -1,0 +1,7 @@
+Cuadro:Carbono
+Grupo: SRAM X01 Eagle, 1x12 velocidades, 10-50 piñones
+Suspension Delantera: Fox Float Performance 36, 150mm, FIT4 Damper, 3-Pos adj., 15x110, tapered steerer, 42mm offset.
+Suspension trasera: Fox Float Performance Elite DPX2 EVOL w/ Gemini dual mode air spring system (Flow Mode - 150mm / Hustle Mode - 120mm), remote-actuated, 3-Pos adj.
+Ruedas:Stan's NoTubes Flow MK3, 32h, tubeless ready, cubiertas Maxxis Minion DHF 29 x 2.5" WT delantera, DHR II 2.4" WT trasera, tecnologia 3C Maxx Terra Compound, EXO puncture protection y tubeless ready
+Bielas: Truvativ Stylo 7K, 30T, Ai Custom
+Frenos: Shimano XT 4-piston hydro disc, 203/180mm
